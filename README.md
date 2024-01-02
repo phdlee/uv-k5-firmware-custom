@@ -17,10 +17,10 @@ See below for all features and descriptions prior to January 2, 2024.
 I am always grateful to the UV-K5 firmware contributors for creating a new playground.
 DE KD8CE
 
---------------------------------------------------------------------------------------------------------------------
-------------------- The source was taken from the EGZUMER repository on January 2, 2024 ----------------------------
--------------------       ### Please refer to the previous functions below. ###         ----------------------------
---------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+The source was taken from the EGZUMER repository on January 2, 2024 
+    ### Please refer to the previous functions below. ### 
+-----------------------------------------------------------------------------------
 
 
 
